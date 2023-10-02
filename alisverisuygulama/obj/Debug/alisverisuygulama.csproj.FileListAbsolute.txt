@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\alisverisuygulama\alisverisuygulama\bin\Debug\alisverisuygulama.exe.config
+C:\Users\User\source\repos\alisverisuygulama\alisverisuygulama\bin\Debug\alisverisuygulama.exe
+C:\Users\User\source\repos\alisverisuygulama\alisverisuygulama\bin\Debug\alisverisuygulama.pdb
+C:\Users\User\source\repos\alisverisuygulama\alisverisuygulama\obj\Debug\alisverisuygulama.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\alisverisuygulama\alisverisuygulama\obj\Debug\alisverisuygulama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\alisverisuygulama\alisverisuygulama\obj\Debug\alisverisuygulama.Form1.resources
+C:\Users\User\source\repos\alisverisuygulama\alisverisuygulama\obj\Debug\alisverisuygulama.Properties.Resources.resources
+C:\Users\User\source\repos\alisverisuygulama\alisverisuygulama\obj\Debug\alisverisuygulama.csproj.GenerateResource.cache
+C:\Users\User\source\repos\alisverisuygulama\alisverisuygulama\obj\Debug\alisverisuygulama.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\alisverisuygulama\alisverisuygulama\obj\Debug\alisverisuygulama.exe
+C:\Users\User\source\repos\alisverisuygulama\alisverisuygulama\obj\Debug\alisverisuygulama.pdb
